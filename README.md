@@ -422,7 +422,7 @@ Diploma in Computer Engineering
 
 Backend Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/charansomisetti144-eng
 
 ---
 
